@@ -1,7 +1,7 @@
-Taking a Skill Test
+## Taking a Skill Test
 As a part of our ongoing efforts to increase the overall marketplace quality, Fiverr provides sellers with the opportunity to take skill tests in order to verify their listed skills. As a seller, by taking skill tests, you increase buyer trust as a result of verifying your skills.
 The following tests have had the most impactful results on seller profiles and, moving forward, we will only be testing for them: 
-Note: Any other skill test that you previously took can no longer be taken and will be removed from your profile.
+#### Note: Any other skill test that you previously took can no longer be taken and will be removed from your profile.
 U.S English Basic Test
 Photoshop
 Adobe Illustrator
@@ -29,7 +29,7 @@ After carefully reading the instructions, click Start Test.
 Note: Once you pass a test, relevant skills related to the test you took will be marked as verified (with a green checkmark).
  
 
-FAQs
+#### FAQs
 1. How can I validate my skills?
 
 In order to validate your skills:
@@ -69,4 +69,5 @@ To hide the test score:
 After you have logged in, click on your Profile.
 Click on the test you would like to hide.
 Click Show on My Profile to enable/disable your test results. 
-If you have any comments or feedback, please let us know.
+
+[Ref.](https://www.fiverr.com/support/articles/360010881597)
